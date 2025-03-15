@@ -1,1 +1,7 @@
 venv/
+/tidy/__puycache__
+/tidy/bin
+/tidy/include
+/tidy/lib
+/tidy/lib64
+/tidy/pyvenv.cfg
