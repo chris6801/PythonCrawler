@@ -5,3 +5,5 @@ venv/
 /tidy/lib
 /tidy/lib64
 /tidy/pyvenv.cfg
+/tidy/212.102.59.80.pem
+/tidy/212.102.59.80.pem.old
